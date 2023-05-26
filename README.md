@@ -1,3 +1,7 @@
+# forked version of somebar
+
+Original here [https://sr.ht/~raphi/somebar/]
+
 # somebar - dwm-like bar for dwl
 
 ![Screenshot](screenshot.png)
